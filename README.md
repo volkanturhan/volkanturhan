@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I am a Full-Stack Developer proficient in Angular,
 - Proficient in developing applications using a wide range of .NET technologies including .NET Framework, .Net Core, .Net 6, MVC, WEB API 2, SOAP, WCF, Blazor and Java Spring Boot with Microservices.
 
 ### Modern Front-End Development
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white) ![AngularJS](https://img.shields.io/badge/-AngularJS-A6120D?style=flat&logo=angularjs&logoColor=white) ![Angular2+](https://img.shields.io/badge/-Angular2+-DD0031?style=flat&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 - Highly skilled in crafting high-performance, user-friendly interfaces using AngularJS, Angular2+, React.JS, jQuery, and JavaScript.
 
 ### Database Management & Big Data Solutions
