@@ -39,24 +39,14 @@ Welcome to my GitHub profile! I am a Full-Stack Developer proficient in Angular,
 
 ## 🌱 Currently Learning
 
-- Cloud Architecture
-- Microservices
-- Advanced Data Structures and Algorithms
-
----
-
-
-## 🌱 Currently Learning
-
-- Cloud Architecture
-- Microservices
-- Advanced Data Structures and Algorithms
+- Machine Learning, Deep Learning, AI
+- Certified Ethical Hacking
 
 ---
 
 ## 📈 GitHub Stats
 
-![Volkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)
+![Volkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=volkanturhan&show_icons=true&theme=tokyonight)
 
 ---
 
