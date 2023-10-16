@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I am a Full-Stack Developer proficient in Angular,
 - Highly skilled in crafting high-performance, user-friendly interfaces using AngularJS, Angular2+, React.JS, jQuery, and JavaScript.
 
 ### Database Management & Big Data Solutions
-![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=elasticsearch&logoColor=white)
 - Comprehensive experience with complex database solutions using MSSQL, Oracle, MySQL, and capable of leveraging NoSQL solutions like ElasticSearch for real-time analytics.
 
 ### Data Messaging & Real-Time Communication
@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I am a Full-Stack Developer proficient in Angular,
 - Proficient in implementing real-time, scalable microservices using message brokers like RabbitMQ and data caching solutions like Redis.
 
 ### Version Control & CI/CD
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Team Explorer](https://img.shields.io/badge/-Team_Explorer-0078D7?style=flat&logo=microsoft&logoColor=white)
 - Skilled in source code management, branching strategies, and automated deployments with tools like GitLab, Team Explorer, and Jenkins.
 
 ### Test Automation & Quality Assurance
@@ -53,7 +53,7 @@ Welcome to my GitHub profile! I am a Full-Stack Developer proficient in Angular,
 ## 📫 How to Reach Me
 
 - 🌐 [Website](https://volkanturhan.com/)
-- 📧 Email: your-info@volkanturhan.com
+- 📧 Email: [info@volkanturhan.com](mailto:info@volkanturhan.com)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/volkan-turhan/)
 
 ---
