@@ -70,10 +70,7 @@ problems — polished and free to use.
 
 ### 📊 GitHub İstatistikleri
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=volkanturhan&show_icons=true&hide_border=true&count_private=true&theme=dark" alt="Volkan's GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=volkanturhan&theme=dark&hide_border=true" alt="Volkan's Streak" />
-</p>
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=volkanturhan&show_icons=true&hide_border=true&count_private=true&theme=dark" alt="Volkan's GitHub stats" /> <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=volkanturhan&theme=dark&hide_border=true" alt="Volkan's Streak" />
 
 ### 📫 Reach me
 
