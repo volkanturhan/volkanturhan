@@ -72,8 +72,8 @@ problems — polished and free to use.
 ### 📊 GitHub İstatistikleri
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=volkanturhan&show_icons=true&hide_border=true&count_private=true&theme=default" alt="Volkan's GitHub stats" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=volkanturhan&layout=compact&hide_border=true&theme=default" alt="Top languages" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=volkanturhan&show_icons=true&hide_border=true&count_private=true&theme=default&cache_burst=1" alt="Volkan's GitHub stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=volkanturhan&layout=compact&hide_border=true&theme=default&cache_burst=1" alt="Top languages" />
 </p>
 
 ### 📫 Reach me
