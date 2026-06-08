@@ -15,9 +15,9 @@
 ### 👨‍💻 About me
 
 I'm a full-stack engineer with years of experience designing and delivering
-**enterprise applications** end to end — from .NET / Java back ends and
-microservices to Angular, Next.js and Flutter front ends, on top of relational
-and NoSQL databases, message brokers and CI/CD pipelines.
+**enterprise applications** end to end — from .NET back ends and microservices 
+to Angular, Next.js and Flutter front ends, on top of relational and NoSQL 
+databases, message brokers and CI/CD pipelines.
 
 Alongside that, I build **small, genuinely useful apps** for everyday
 problems — polished and free to use.
@@ -34,8 +34,6 @@ problems — polished and free to use.
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
 **Frontend**
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
@@ -48,13 +46,14 @@ problems — polished and free to use.
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-**Databases**
+**Databases & Infrastructure**
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 
 **Messaging & Caching**
@@ -72,11 +71,8 @@ problems — polished and free to use.
 ### 📊 GitHub İstatistikleri
 
 <p align="center">
-  <img src="https://github-profile-trophy.onrender.com/?username=volkanturhan&theme=darkhub&no-bg=true&no-frame=true" alt="Volkan's Trophies" />
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=volkanturhan&show_icons=true&hide_border=true&count_private=true&theme=dark" alt="Volkan's GitHub stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=volkanturhan&show_icons=true&hide_border=true&count_private=true&theme=dark" alt="Volkan's GitHub stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=volkanturhan&theme=dark&hide_border=true" alt="Volkan's Streak" />
 </p>
 
 ### 📫 Reach me
