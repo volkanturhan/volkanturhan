@@ -69,11 +69,11 @@ problems — polished and free to use.
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 
-### 📊 GitHub
+### 📊 GitHub İstatistikleri
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=volkanturhan&show_icons=true&hide_border=true&count_private=true" alt="Volkan's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=volkanturhan&layout=compact&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=volkanturhan&show_icons=true&hide_border=true&count_private=true&theme=default" alt="Volkan's GitHub stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=volkanturhan&layout=compact&hide_border=true&theme=default" alt="Top languages" />
 </p>
 
 ### 📫 Reach me
