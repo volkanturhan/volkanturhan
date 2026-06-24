@@ -22,11 +22,20 @@ databases, message brokers and CI/CD pipelines.
 Alongside that, I build **small, genuinely useful apps** for everyday
 problems — polished and free to use.
 
-### 🚀 What I'm building
+### 🚀 What I'm building — the *ory* apps
 
-| Project | What it does | Stack |
+Small, free Windows utilities that live in your system tray — open source,
+self-updating, with Dark / Light / System themes and English & Turkish.
+👉 Browse them all: [**`topic:publicapps`**](https://github.com/search?q=user%3Avolkanturhan+topic%3Apublicapps)
+
+| App | What it does | Stack |
 | --- | --- | --- |
-| **Clipory** &nbsp;*(coming soon)* | A lightweight Windows clipboard-history manager — recall and paste anything you've copied with a hotkey. | C# · WPF · .NET 8 |
+| **[clipory](https://github.com/volkanturhan/clipory)** | Clipboard-history manager — recall & paste anything you've copied with a hotkey | C# · WPF · .NET 8 |
+| **[pixory](https://github.com/volkanturhan/pixory)** | Screen colour picker — grab any pixel's colour in HEX / RGB / HSL | C# · WPF · .NET 8 |
+| **[typory](https://github.com/volkanturhan/typory)** | Text expander — short abbreviations expand into full text anywhere you type | C# · WPF · .NET 8 |
+| **[snapory](https://github.com/volkanturhan/snapory)** | Screenshot + annotation — capture a region, mark it up, copy or save | C# · WPF · .NET 8 |
+| **[topory](https://github.com/volkanturhan/topory)** | "Always on top" manager — pin the focused window with a hotkey | C# · WPF · .NET 8 |
+| **[notory](https://github.com/volkanturhan/notory)** | Quick-note scratchpad — a hotkey toggles an auto-saving note | C# · WPF · .NET 8 |
 
 ### 🧰 Tech I work with
 
